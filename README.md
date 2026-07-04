@@ -2,14 +2,14 @@
 
 ### 🧭 Sobre mim
 
-Desenvolvedor Backend em formação, focado em **Java** e **Spring Boot**, cursando Análise e Desenvolvimento de Sistemas.  
+Desenvolvedor Backend em formação, focado em Java e Spring Boot, cursando Análise e Desenvolvimento de Sistemas.  
 Tenho interesse em Arquitetura de Sistemas Backend, Linux, Infraestrutura, APIs REST e tecnologias Cloud, aplicando esse conhecimento na prática por meio de projetos reais e de um laboratório pessoal de Engenharia de Software.
 
 ---
 
 📍 São Paulo - Brasil  
 🎓 USCS - Universidade Municipal de São Caetano do Sul  
-⚙️ Stack atual: **Java • Spring Boot • PostgreSQL • MySQL • Docker**  
+⚙️ Stack Principal: **Java • Spring Boot • PostgreSQL • MySQL • Docker**  
 
 ### 📫 Contato
 
@@ -38,11 +38,11 @@ Tenho interesse em Arquitetura de Sistemas Backend, Linux, Infraestrutura, APIs 
 
 ---
 
-### 🟢 Status Principal
+### 🟢 Status Atual
 
 💼 Buscando oportunidade: Desenvolvedor Backend Java Júnior
 
-📚 Aprofundando conhecimentos em: Spring Security • Docker • Linux • Arquitetura de Software
+📚 Estudando no momento: Spring Security • Docker • Linux • Arquitetura de Software
 
 🎯 Meta: evoluir para Engenharia de Software, Cloud e Arquitetura Back-end
 
@@ -91,7 +91,7 @@ Tenho interesse em Arquitetura de Sistemas Backend, Linux, Infraestrutura, APIs 
 
 ---
 
-📚 Estudando atualmente
+### 📚 Estudando atualmente
 
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -101,7 +101,6 @@ Tenho interesse em Arquitetura de Sistemas Backend, Linux, Infraestrutura, APIs 
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Arquitetura_de_Software-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APIs_REST-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
@@ -113,7 +112,7 @@ Tenho interesse em Arquitetura de Sistemas Backend, Linux, Infraestrutura, APIs 
 
 `Java` `Spring Boot` `MySQL` `Docker`
 
-API REST para cadastro e autenticação de usuários, com persistência em banco de dados e deploy em ambiente cloud.
+API REST para cadastro e gerenciamento de usuários, com persistência em banco de dados e implantação em ambiente cloud.
 
 ---
 

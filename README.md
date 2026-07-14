@@ -107,11 +107,13 @@ Tenho interesse em Arquitetura de Sistemas Backend, Linux, Infraestrutura, APIs 
 
 ### 📌 Projetos em destaque
 
-#### [API de Usuários](https://github.com/leonfreecod/usuarios-api)
+#### [Running Insights](https://running.leofe.com.br)
 
-`Java` `Spring Boot` `MySQL` `Docker`
+`Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Docker` `Nginx` `Oracle Cloud`
 
-API REST para cadastro e gerenciamento de usuários, com persistência em banco de dados e implantação em ambiente cloud.
+Sistema web full stack para gerenciamento e análise de treinos de corrida, desenvolvido do backend ao deploy, com arquitetura em camadas, API REST, dashboard responsivo, persistência em PostgreSQL e publicação em produção com domínio próprio e HTTPS.
+
+[Aplicação online](https://running.leofe.com.br) • [Backend](https://github.com/leonfreecod/running-insights-api) • [Frontend](https://github.com/leonfreecod/running-insights-web)
 
 ---
 
@@ -123,8 +125,10 @@ Aplicação front-end para visualização e organização de dados relacionados 
 
 ---
 
-#### [Sistemas ETP](https://github.com/leonfreecod/Sistemas-ETP)
+#### [API de Usuários](https://leofe.com.br)
 
-`Java` `Banco de Dados`
+`Java` `Spring Boot` `MySQL` `Docker` `Nginx` `Oracle Cloud`
 
-Projeto acadêmico de extensão com foco em estruturação de sistema e modelagem de dados.
+Aplicação web para cadastro e gerenciamento de usuários, com API REST, persistência em banco de dados, interface integrada e publicação em ambiente cloud com domínio próprio e HTTPS.
+
+[Aplicação online](https://leofe.com.br) • [Repositório](https://github.com/leonfreecod/usuarios-api)

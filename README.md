@@ -20,9 +20,7 @@ Tenho interesse em Arquitetura de Sistemas Backend, Linux, Infraestrutura, APIs 
   <a href="https://github.com/leonfreecod">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://leofe.com.br">
-    <img src="https://img.shields.io/badge/Website-4A4A4A?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
+   </a>
   <a href="https://www.instagram.com/leoferreirarun">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>

@@ -95,7 +95,6 @@ Tenho interesse em Arquitetura de Sistemas Backend, Linux, Infraestrutura, APIs 
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Arquitetura_de_Software-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -103,7 +102,17 @@ Tenho interesse em Arquitetura de Sistemas Backend, Linux, Infraestrutura, APIs 
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Projetos Publicados
+
+#### [HubFlow Fit](https://hubflow.leofe.com.br)
+
+`Java` `Spring Boot` `Spring Security` `JWT` `React` `TypeScript` `PostgreSQL` `Docker` `Nginx` `Oracle Cloud`
+
+Sistema web full stack para gestão de assessorias esportivas e personal trainers, com autenticação JWT, controle de alunos, agenda, treinos, pagamentos e dashboard administrativo. Desenvolvido do backend ao deploy em produção utilizando Spring Boot, React e PostgreSQL.
+
+[Aplicação online](https://hubflow.leofe.com.br) • [Repositório](https://github.com/leonfreecod/hubflow-fit)
+
+---
 
 #### [Running Insights](https://running.leofe.com.br)
 
@@ -115,13 +124,6 @@ Sistema web full stack para gerenciamento e análise de treinos de corrida, dese
 
 ---
 
-#### [Atlas Ritmo-Tempo](https://github.com/leonfreecod/pace-time-atlas)
-
-`React` `TypeScript` `Vite`
-
-Aplicação front-end para visualização e organização de dados relacionados a ritmo, tempo e performance.
-
----
 
 #### [API de Usuários](https://leofe.com.br)
 
